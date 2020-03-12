@@ -1,0 +1,28 @@
+{
+  "name": "number-to-khmer",
+  "version": "1.0.0",
+  "description": "Convert number into Khmer word.",
+  "main": "number-to-khmer.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cheasowattana/number-to-khmer.git"
+  },
+  "keywords": [
+    "khmer",
+    "word",
+    "converter",
+    "number"
+  ],
+  "author": "cheasowattana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cheasowattana/number-to-khmer/issues"
+  },
+  "homepage": "https://github.com/cheasowattana/number-to-khmer#readme",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
+}
