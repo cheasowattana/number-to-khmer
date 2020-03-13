@@ -1,6 +1,6 @@
 {
-  "name": "number-to-khmer",
-  "version": "1.0.1",
+  "name": "@itjobcambodia/number-to-khmer",
+  "version": "1.0.2",
   "description": "Convert number into Khmer word.",
   "main": "number-to-khmer.js",
   "scripts": {
